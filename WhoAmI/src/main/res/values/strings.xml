@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoAmI</string>
+    <string name="click">click</string>
+    <string name="setup">setup</string>
+    <string name="prompt_email">Email</string>
+
+</resources>
